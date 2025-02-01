@@ -1,0 +1,2701 @@
+﻿State,Period,Value
+Alabama,2010-01,11.7
+Alabama,2010-02,11.4
+Alabama,2010-03,11
+Alabama,2010-04,10.1
+Alabama,2010-05,9.9
+Alabama,2010-06,10.4
+Alabama,2010-07,10.3
+Alabama,2010-08,10.2
+Alabama,2010-09,9.9
+Alabama,2010-10,9.9
+Alabama,2010-11,10
+Alabama,2010-12,9.9
+Alabama,2011-01,10.7
+Alabama,2011-02,10.3
+Alabama,2011-03,9.8
+Alabama,2011-04,9.2
+Alabama,2011-05,9.3
+Alabama,2011-06,10.3
+Alabama,2011-07,10.1
+Alabama,2011-08,9.8
+Alabama,2011-09,9.5
+Alabama,2011-10,9
+Alabama,2011-11,8.5
+Alabama,2011-12,8.4
+Alabama,2012-01,9
+Alabama,2012-02,8.9
+Alabama,2012-03,8.4
+Alabama,2012-04,7.6
+Alabama,2012-05,7.9
+Alabama,2012-06,8.9
+Alabama,2012-07,8.8
+Alabama,2012-08,8.4
+Alabama,2012-09,7.7
+Alabama,2012-10,7.6
+Alabama,2012-11,7.2
+Alabama,2012-12,7.4
+Alabama,2013-01,8.4
+Alabama,2013-02,8
+Alabama,2013-03,7.3
+Alabama,2013-04,6.6
+Alabama,2013-05,6.9
+Alabama,2013-06,7.8
+Alabama,2013-07,7.6
+Alabama,2013-08,7.5
+Alabama,2013-09,7.2
+Alabama,2013-10,7.1
+Alabama,2013-11,6.8
+Alabama,2013-12,6.8
+Alabama,2014-01,7.6
+Alabama,2014-02,7.6
+Alabama,2014-03,7.2
+Alabama,2014-04,6.2
+Alabama,2014-05,6.5
+Alabama,2014-06,7.2
+Alabama,2014-07,7.3
+Alabama,2014-08,7
+Alabama,2014-09,6.4
+Alabama,2014-10,6.2
+Alabama,2014-11,6
+Alabama,2014-12,5.8
+Alabama,2015-01,6.6
+Alabama,2015-02,6.3
+Alabama,2015-03,6
+Alabama,2015-04,5.5
+Alabama,2015-05,6
+Alabama,2015-06,6.6
+Alabama,2015-07,6.6
+Alabama,2015-08,6.3
+Alabama,2015-09,6
+Alabama,2015-10,6
+Alabama,2015-11,5.9
+Alabama,2015-12,5.9
+Alabama,2016-01,6.5
+Alabama,2016-02,6.3
+Alabama,2016-03,6.1
+Alabama,2016-04,5.4
+Alabama,2016-05,5.4
+Alabama,2016-06,6.3
+Alabama,2016-07,6.1
+Alabama,2016-08,6
+Alabama,2016-09,5.9
+Alabama,2016-10,5.9
+Alabama,2016-11,5.3
+Alabama,2016-12,5.4
+Alabama,2017-01,6
+Alabama,2017-02,5.6
+Alabama,2017-03,5
+Alabama,2017-04,4.3
+Alabama,2017-05,4.1
+Alabama,2017-06,4.9
+Alabama,2017-07,4.7
+Alabama,2017-08,4.5
+Alabama,2017-09,3.9
+Alabama,2017-10,3.8
+Alabama,2017-11,3.7
+Alabama,2017-12,3.7
+Alabama,2018-01,4.4
+Alabama,2018-02,4.4
+Alabama,2018-03,4
+Alabama,2018-04,3.5
+Alabama,2018-05,3.5
+Alabama,2018-06,4.6
+Alabama,2018-07,4.3
+Alabama,2018-08,4.1
+Alabama,2018-09,3.7
+Alabama,2018-10,3.7
+Alabama,2018-11,3.4
+Alabama,2018-12,3.6
+Alabama,2019-01,4.3
+Alabama,2019-02,3.8
+Alabama,2019-03,3.5
+Alabama,2019-04,2.8
+Alabama,2019-05,2.7
+Alabama,2019-06,3.4
+Alabama,2019-07,3.3
+Alabama,2019-08,3.2
+Alabama,2019-09,2.8
+Alabama,2019-10,2.8
+Alabama,2019-11,2.7
+Alabama,2019-12,2.8
+Alabama,2020-01,3.6
+Alabama,2020-02,3.3
+Alabama,2020-03,3.7
+Alabama,2020-04,13.1
+Alabama,2020-05,10.2
+Alabama,2020-06,9
+Alabama,2020-07,7.9
+Alabama,2020-08,6.3
+Alabama,2020-09,5.9
+Alabama,2020-10,4.9
+Alabama,2020-11,4.5
+Alabama,2020-12,4.3
+Alabama,2021-01,4.5
+Alabama,2021-02,4.1
+Alabama,2021-03,3.7
+Alabama,2021-04,3.3
+Alabama,2021-05,3.2
+Alabama,2021-06,4.1
+Alabama,2021-07,3.7
+Alabama,2021-08,3.5
+Alabama,2021-09,2.9
+Alabama,2021-10,2.7
+Alabama,2021-11,2.4
+Alabama,2021-12,2.3
+Alabama,2022-01,3.1
+Alabama,2022-02,2.9
+Alabama,2022-03,2.4
+Alabama,2022-04,2
+Alabama,2022-05,2.2
+Alabama,2022-06,3.1
+Alabama,2022-07,2.9
+Alabama,2022-08,2.9
+Alabama,2022-09,2.4
+Alabama,2022-10,2.4
+Alabama,2022-11,2.2
+Alabama,2022-12,2
+Alabama,2023-01,2.6
+Alabama,2023-02,2.5
+Alabama,2023-03,2.2
+Alabama,2023-04,1.8
+Alabama,2023-05,2.1
+Alabama,2023-06,2.8
+Alabama,2023-07,2.6
+Alabama,2023-08,2.8
+Alabama,2023-09,2.6
+Alabama,2023-10,2.6
+Alabama,2023-11,2.5
+Alabama,2023-12,2.7
+Alabama,2024-01,3.4
+Alabama,2024-02,3.4
+Alabama,2024-03,3
+Alabama,2024-04,2.6
+Alabama,2024-05,2.4
+Alabama,2024-06,2.9
+Alabama,2024-07,3.2
+Alabama,2024-08,3.4
+Alabama,2024-09,3
+Alabama,2024-10,3.1
+Alabama,2024-11,3.3
+Alabama,2024-12,3.2
+Arizona,2010-01,10.9
+Arizona,2010-02,10.6
+Arizona,2010-03,10.3
+Arizona,2010-04,10.1
+Arizona,2010-05,10
+Arizona,2010-06,10.5
+Arizona,2010-07,10.8
+Arizona,2010-08,10.7
+Arizona,2010-09,10.3
+Arizona,2010-10,10
+Arizona,2010-11,9.9
+Arizona,2010-12,9.6
+Arizona,2011-01,10.1
+Arizona,2011-02,9.6
+Arizona,2011-03,9.3
+Arizona,2011-04,9.1
+Arizona,2011-05,8.9
+Arizona,2011-06,10.4
+Arizona,2011-07,10.2
+Arizona,2011-08,9.8
+Arizona,2011-09,9.5
+Arizona,2011-10,9.2
+Arizona,2011-11,8.5
+Arizona,2011-12,8.6
+Arizona,2012-01,8.8
+Arizona,2012-02,8.5
+Arizona,2012-03,8.2
+Arizona,2012-04,7.9
+Arizona,2012-05,8.2
+Arizona,2012-06,8.8
+Arizona,2012-07,9.1
+Arizona,2012-08,8.8
+Arizona,2012-09,8.2
+Arizona,2012-10,8.1
+Arizona,2012-11,7.6
+Arizona,2012-12,7.9
+Arizona,2013-01,8.4
+Arizona,2013-02,7.8
+Arizona,2013-03,7.7
+Arizona,2013-04,7.5
+Arizona,2013-05,7.6
+Arizona,2013-06,8.4
+Arizona,2013-07,8.3
+Arizona,2013-08,8.3
+Arizona,2013-09,7.9
+Arizona,2013-10,7.7
+Arizona,2013-11,7.1
+Arizona,2013-12,7
+Arizona,2014-01,7.2
+Arizona,2014-02,7
+Arizona,2014-03,6.9
+Arizona,2014-04,6.2
+Arizona,2014-05,6.7
+Arizona,2014-06,7.1
+Arizona,2014-07,7.4
+Arizona,2014-08,7.3
+Arizona,2014-09,6.8
+Arizona,2014-10,6.6
+Arizona,2014-11,6.3
+Arizona,2014-12,6.2
+Arizona,2015-01,6.5
+Arizona,2015-02,6
+Arizona,2015-03,5.8
+Arizona,2015-04,5.8
+Arizona,2015-05,6
+Arizona,2015-06,6.5
+Arizona,2015-07,6.6
+Arizona,2015-08,6.4
+Arizona,2015-09,6.1
+Arizona,2015-10,6
+Arizona,2015-11,5.7
+Arizona,2015-12,5.5
+Arizona,2016-01,5.6
+Arizona,2016-02,5.4
+Arizona,2016-03,5.4
+Arizona,2016-04,5.4
+Arizona,2016-05,5.2
+Arizona,2016-06,5.8
+Arizona,2016-07,5.9
+Arizona,2016-08,5.8
+Arizona,2016-09,5.6
+Arizona,2016-10,5.4
+Arizona,2016-11,5
+Arizona,2016-12,5
+Arizona,2017-01,5.4
+Arizona,2017-02,5.1
+Arizona,2017-03,4.9
+Arizona,2017-04,4.7
+Arizona,2017-05,4.8
+Arizona,2017-06,5.2
+Arizona,2017-07,5.3
+Arizona,2017-08,5.3
+Arizona,2017-09,4.9
+Arizona,2017-10,4.7
+Arizona,2017-11,4.6
+Arizona,2017-12,4.6
+Arizona,2018-01,5
+Arizona,2018-02,4.8
+Arizona,2018-03,4.6
+Arizona,2018-04,4.5
+Arizona,2018-05,4.4
+Arizona,2018-06,5.1
+Arizona,2018-07,5.2
+Arizona,2018-08,5.1
+Arizona,2018-09,4.8
+Arizona,2018-10,4.7
+Arizona,2018-11,4.6
+Arizona,2018-12,4.9
+Arizona,2019-01,5.3
+Arizona,2019-02,4.8
+Arizona,2019-03,4.7
+Arizona,2019-04,4.5
+Arizona,2019-05,4.7
+Arizona,2019-06,5.2
+Arizona,2019-07,5.4
+Arizona,2019-08,5.2
+Arizona,2019-09,4.6
+Arizona,2019-10,4.6
+Arizona,2019-11,4.4
+Arizona,2019-12,4.3
+Arizona,2020-01,4.7
+Arizona,2020-02,4.5
+Arizona,2020-03,5.4
+Arizona,2020-04,13.3
+Arizona,2020-05,11.2
+Arizona,2020-06,10.2
+Arizona,2020-07,9.9
+Arizona,2020-08,8.1
+Arizona,2020-09,7.5
+Arizona,2020-10,6.6
+Arizona,2020-11,6.3
+Arizona,2020-12,6.4
+Arizona,2021-01,6.4
+Arizona,2021-02,6.2
+Arizona,2021-03,5.8
+Arizona,2021-04,5.7
+Arizona,2021-05,5.5
+Arizona,2021-06,6
+Arizona,2021-07,5.4
+Arizona,2021-08,4.9
+Arizona,2021-09,4.4
+Arizona,2021-10,3.8
+Arizona,2021-11,3.4
+Arizona,2021-12,3.2
+Arizona,2022-01,3.8
+Arizona,2022-02,3.6
+Arizona,2022-03,3.3
+Arizona,2022-04,3.5
+Arizona,2022-05,3.6
+Arizona,2022-06,4.3
+Arizona,2022-07,4.3
+Arizona,2022-08,4.4
+Arizona,2022-09,4
+Arizona,2022-10,3.9
+Arizona,2022-11,3.6
+Arizona,2022-12,3.3
+Arizona,2023-01,3.6
+Arizona,2023-02,3.6
+Arizona,2023-03,3.5
+Arizona,2023-04,3.4
+Arizona,2023-05,3.8
+Arizona,2023-06,4.2
+Arizona,2023-07,4.3
+Arizona,2023-08,4.5
+Arizona,2023-09,4.2
+Arizona,2023-10,4.2
+Arizona,2023-11,3.8
+Arizona,2023-12,3.8
+Arizona,2024-01,3.8
+Arizona,2024-02,3.6
+Arizona,2024-03,2.9
+Arizona,2024-04,2.6
+Arizona,2024-05,3.2
+Arizona,2024-06,3.9
+Arizona,2024-07,4.4
+Arizona,2024-08,4
+Arizona,2024-09,3.9
+Arizona,2024-10,3.8
+Arizona,2024-11,3.9
+Arizona,2024-12,3.5
+Arkansas,2010-01,8.8
+Arkansas,2010-02,8.7
+Arkansas,2010-03,8.1
+Arkansas,2010-04,7.4
+Arkansas,2010-05,7.6
+Arkansas,2010-06,7.7
+Arkansas,2010-07,8.1
+Arkansas,2010-08,7.8
+Arkansas,2010-09,7.5
+Arkansas,2010-10,7.3
+Arkansas,2010-11,7.6
+Arkansas,2010-12,7.9
+Arkansas,2011-01,8.9
+Arkansas,2011-02,8.7
+Arkansas,2011-03,8
+Arkansas,2011-04,7.5
+Arkansas,2011-05,7.8
+Arkansas,2011-06,8.3
+Arkansas,2011-07,8.3
+Arkansas,2011-08,7.9
+Arkansas,2011-09,7.7
+Arkansas,2011-10,7.2
+Arkansas,2011-11,7.1
+Arkansas,2011-12,7.5
+Arkansas,2012-01,8.2
+Arkansas,2012-02,8.1
+Arkansas,2012-03,7.3
+Arkansas,2012-04,6.7
+Arkansas,2012-05,7.2
+Arkansas,2012-06,7.5
+Arkansas,2012-07,7.8
+Arkansas,2012-08,7.2
+Arkansas,2012-09,6.8
+Arkansas,2012-10,6.6
+Arkansas,2012-11,6.5
+Arkansas,2012-12,7.1
+Arkansas,2013-01,8.2
+Arkansas,2013-02,7.8
+Arkansas,2013-03,7.1
+Arkansas,2013-04,6.6
+Arkansas,2013-05,7.1
+Arkansas,2013-06,7.5
+Arkansas,2013-07,7.5
+Arkansas,2013-08,7
+Arkansas,2013-09,6.7
+Arkansas,2013-10,6.5
+Arkansas,2013-11,6.2
+Arkansas,2013-12,6.4
+Arkansas,2014-01,7
+Arkansas,2014-02,7
+Arkansas,2014-03,6.3
+Arkansas,2014-04,5.4
+Arkansas,2014-05,5.8
+Arkansas,2014-06,6
+Arkansas,2014-07,6.4
+Arkansas,2014-08,5.9
+Arkansas,2014-09,5.5
+Arkansas,2014-10,5
+Arkansas,2014-11,5.1
+Arkansas,2014-12,5.3
+Arkansas,2015-01,6.2
+Arkansas,2015-02,5.9
+Arkansas,2015-03,5.4
+Arkansas,2015-04,4.9
+Arkansas,2015-05,5.2
+Arkansas,2015-06,5.3
+Arkansas,2015-07,5.4
+Arkansas,2015-08,4.7
+Arkansas,2015-09,4.4
+Arkansas,2015-10,4.1
+Arkansas,2015-11,4
+Arkansas,2015-12,4.1
+Arkansas,2016-01,4.7
+Arkansas,2016-02,4.6
+Arkansas,2016-03,4.1
+Arkansas,2016-04,3.6
+Arkansas,2016-05,3.8
+Arkansas,2016-06,4.3
+Arkansas,2016-07,4.4
+Arkansas,2016-08,4
+Arkansas,2016-09,3.9
+Arkansas,2016-10,3.4
+Arkansas,2016-11,3.3
+Arkansas,2016-12,3.6
+Arkansas,2017-01,4.4
+Arkansas,2017-02,4.4
+Arkansas,2017-03,3.6
+Arkansas,2017-04,3.2
+Arkansas,2017-05,3.6
+Arkansas,2017-06,3.9
+Arkansas,2017-07,4.1
+Arkansas,2017-08,3.9
+Arkansas,2017-09,3.5
+Arkansas,2017-10,3.2
+Arkansas,2017-11,3.3
+Arkansas,2017-12,3.6
+Arkansas,2018-01,4.4
+Arkansas,2018-02,4.4
+Arkansas,2018-03,3.8
+Arkansas,2018-04,3.3
+Arkansas,2018-05,3.4
+Arkansas,2018-06,4
+Arkansas,2018-07,4
+Arkansas,2018-08,3.5
+Arkansas,2018-09,3.4
+Arkansas,2018-10,3.1
+Arkansas,2018-11,3.1
+Arkansas,2018-12,3.5
+Arkansas,2019-01,4.4
+Arkansas,2019-02,4
+Arkansas,2019-03,3.5
+Arkansas,2019-04,3
+Arkansas,2019-05,3.2
+Arkansas,2019-06,3.8
+Arkansas,2019-07,4.1
+Arkansas,2019-08,3.6
+Arkansas,2019-09,3.2
+Arkansas,2019-10,2.9
+Arkansas,2019-11,3
+Arkansas,2019-12,3.2
+Arkansas,2020-01,4
+Arkansas,2020-02,3.8
+Arkansas,2020-03,5.3
+Arkansas,2020-04,9.6
+Arkansas,2020-05,8.8
+Arkansas,2020-06,8.2
+Arkansas,2020-07,8.1
+Arkansas,2020-08,6.3
+Arkansas,2020-09,5.8
+Arkansas,2020-10,4.6
+Arkansas,2020-11,4.5
+Arkansas,2020-12,4.8
+Arkansas,2021-01,5.4
+Arkansas,2021-02,5.3
+Arkansas,2021-03,4.7
+Arkansas,2021-04,4.3
+Arkansas,2021-05,4.2
+Arkansas,2021-06,4.8
+Arkansas,2021-07,4.5
+Arkansas,2021-08,3.8
+Arkansas,2021-09,3.3
+Arkansas,2021-10,2.7
+Arkansas,2021-11,2.6
+Arkansas,2021-12,2.8
+Arkansas,2022-01,3.8
+Arkansas,2022-02,3.7
+Arkansas,2022-03,3.1
+Arkansas,2022-04,2.9
+Arkansas,2022-05,3.1
+Arkansas,2022-06,3.7
+Arkansas,2022-07,3.8
+Arkansas,2022-08,3.4
+Arkansas,2022-09,3.1
+Arkansas,2022-10,2.6
+Arkansas,2022-11,2.7
+Arkansas,2022-12,2.7
+Arkansas,2023-01,3.4
+Arkansas,2023-02,3.3
+Arkansas,2023-03,2.9
+Arkansas,2023-04,2.5
+Arkansas,2023-05,2.9
+Arkansas,2023-06,3.5
+Arkansas,2023-07,3.7
+Arkansas,2023-08,3.6
+Arkansas,2023-09,3.5
+Arkansas,2023-10,3.1
+Arkansas,2023-11,3.2
+Arkansas,2023-12,3.4
+Arkansas,2024-01,3.9
+Arkansas,2024-02,3.5
+Arkansas,2024-03,3.3
+Arkansas,2024-04,3.1
+Arkansas,2024-05,3.3
+Arkansas,2024-06,3.7
+Arkansas,2024-07,3.9
+Arkansas,2024-08,3.5
+Arkansas,2024-09,2.9
+Arkansas,2024-10,2.9
+Arkansas,2024-11,3.1
+Arkansas,2024-12,3.4
+Delaware,2010-01,9.7
+Delaware,2010-02,9.7
+Delaware,2010-03,9.2
+Delaware,2010-04,8.6
+Delaware,2010-05,8.2
+Delaware,2010-06,8.7
+Delaware,2010-07,8.8
+Delaware,2010-08,8.8
+Delaware,2010-09,8.4
+Delaware,2010-10,8.2
+Delaware,2010-11,8
+Delaware,2010-12,7.9
+Delaware,2011-01,8.6
+Delaware,2011-02,8.4
+Delaware,2011-03,7.9
+Delaware,2011-04,7.4
+Delaware,2011-05,7.2
+Delaware,2011-06,8
+Delaware,2011-07,7.9
+Delaware,2011-08,7.8
+Delaware,2011-09,7.5
+Delaware,2011-10,7.2
+Delaware,2011-11,6.6
+Delaware,2011-12,6.7
+Delaware,2012-01,7.4
+Delaware,2012-02,7.4
+Delaware,2012-03,7.1
+Delaware,2012-04,6.7
+Delaware,2012-05,6.7
+Delaware,2012-06,7.4
+Delaware,2012-07,7.6
+Delaware,2012-08,7.5
+Delaware,2012-09,6.9
+Delaware,2012-10,6.8
+Delaware,2012-11,6.4
+Delaware,2012-12,6.7
+Delaware,2013-01,7.8
+Delaware,2013-02,7.4
+Delaware,2013-03,7
+Delaware,2013-04,6.5
+Delaware,2013-05,6.4
+Delaware,2013-06,7.1
+Delaware,2013-07,6.9
+Delaware,2013-08,6.7
+Delaware,2013-09,6.2
+Delaware,2013-10,6.1
+Delaware,2013-11,5.6
+Delaware,2013-12,5.5
+Delaware,2014-01,6.4
+Delaware,2014-02,6.4
+Delaware,2014-03,6.2
+Delaware,2014-04,5.4
+Delaware,2014-05,5.5
+Delaware,2014-06,5.9
+Delaware,2014-07,6
+Delaware,2014-08,5.9
+Delaware,2014-09,5.3
+Delaware,2014-10,5.1
+Delaware,2014-11,4.6
+Delaware,2014-12,4.5
+Delaware,2015-01,5.5
+Delaware,2015-02,5.3
+Delaware,2015-03,5
+Delaware,2015-04,4.7
+Delaware,2015-05,4.7
+Delaware,2015-06,5.1
+Delaware,2015-07,5.1
+Delaware,2015-08,5
+Delaware,2015-09,4.6
+Delaware,2015-10,4.5
+Delaware,2015-11,4.1
+Delaware,2015-12,4.1
+Delaware,2016-01,4.9
+Delaware,2016-02,4.7
+Delaware,2016-03,4.6
+Delaware,2016-04,4.3
+Delaware,2016-05,4
+Delaware,2016-06,4.8
+Delaware,2016-07,4.8
+Delaware,2016-08,4.8
+Delaware,2016-09,4.6
+Delaware,2016-10,4.5
+Delaware,2016-11,4.1
+Delaware,2016-12,4.2
+Delaware,2017-01,5.2
+Delaware,2017-02,5.1
+Delaware,2017-03,4.7
+Delaware,2017-04,4.3
+Delaware,2017-05,4.2
+Delaware,2017-06,4.7
+Delaware,2017-07,4.8
+Delaware,2017-08,4.8
+Delaware,2017-09,4.2
+Delaware,2017-10,4
+Delaware,2017-11,3.8
+Delaware,2017-12,3.8
+Delaware,2018-01,4.6
+Delaware,2018-02,4.4
+Delaware,2018-03,4.1
+Delaware,2018-04,3.6
+Delaware,2018-05,3.3
+Delaware,2018-06,4.1
+Delaware,2018-07,4
+Delaware,2018-08,3.9
+Delaware,2018-09,3.3
+Delaware,2018-10,3.2
+Delaware,2018-11,2.9
+Delaware,2018-12,3.2
+Delaware,2019-01,4.1
+Delaware,2019-02,3.8
+Delaware,2019-03,3.7
+Delaware,2019-04,3.3
+Delaware,2019-05,3.2
+Delaware,2019-06,3.8
+Delaware,2019-07,4
+Delaware,2019-08,4
+Delaware,2019-09,3.4
+Delaware,2019-10,3.5
+Delaware,2019-11,3.1
+Delaware,2019-12,3.1
+Delaware,2020-01,3.9
+Delaware,2020-02,3.7
+Delaware,2020-03,5.6
+Delaware,2020-04,12.7
+Delaware,2020-05,13.3
+Delaware,2020-06,12.8
+Delaware,2020-07,7.9
+Delaware,2020-08,7.4
+Delaware,2020-09,7.7
+Delaware,2020-10,4.8
+Delaware,2020-11,4.6
+Delaware,2020-12,5.2
+Delaware,2021-01,6.1
+Delaware,2021-02,6.2
+Delaware,2021-03,6.1
+Delaware,2021-04,5.9
+Delaware,2021-05,5.4
+Delaware,2021-06,6.2
+Delaware,2021-07,5.9
+Delaware,2021-08,5.7
+Delaware,2021-09,5
+Delaware,2021-10,4.8
+Delaware,2021-11,4.3
+Delaware,2021-12,4
+Delaware,2022-01,5.1
+Delaware,2022-02,4.7
+Delaware,2022-03,4.4
+Delaware,2022-04,4.1
+Delaware,2022-05,3.9
+Delaware,2022-06,4.6
+Delaware,2022-07,4.4
+Delaware,2022-08,4.5
+Delaware,2022-09,3.9
+Delaware,2022-10,4.1
+Delaware,2022-11,3.8
+Delaware,2022-12,3.6
+Delaware,2023-01,4.3
+Delaware,2023-02,4.3
+Delaware,2023-03,4.1
+Delaware,2023-04,3.6
+Delaware,2023-05,3.7
+Delaware,2023-06,4.2
+Delaware,2023-07,4.1
+Delaware,2023-08,4.4
+Delaware,2023-09,3.9
+Delaware,2023-10,4
+Delaware,2023-11,3.6
+Delaware,2023-12,3.7
+Delaware,2024-01,4.2
+Delaware,2024-02,4
+Delaware,2024-03,4
+Delaware,2024-04,3.7
+Delaware,2024-05,3.9
+Delaware,2024-06,4.6
+Delaware,2024-07,4.8
+Delaware,2024-08,4.7
+Delaware,2024-09,3.5
+Delaware,2024-10,3.4
+Delaware,2024-11,3.1
+Delaware,2024-12,3.2
+Florida,2010-01,11.2
+Florida,2010-02,10.8
+Florida,2010-03,10.7
+Florida,2010-04,10.5
+Florida,2010-05,10.4
+Florida,2010-06,10.8
+Florida,2010-07,11.2
+Florida,2010-08,11.2
+Florida,2010-09,11
+Florida,2010-10,10.8
+Florida,2010-11,11
+Florida,2010-12,10.6
+Florida,2011-01,10.8
+Florida,2011-02,10.3
+Florida,2011-03,10.1
+Florida,2011-04,9.8
+Florida,2011-05,9.9
+Florida,2011-06,10.4
+Florida,2011-07,10.4
+Florida,2011-08,10.3
+Florida,2011-09,10
+Florida,2011-10,9.6
+Florida,2011-11,9.3
+Florida,2011-12,9.1
+Florida,2012-01,9.3
+Florida,2012-02,9
+Florida,2012-03,8.7
+Florida,2012-04,8.3
+Florida,2012-05,8.6
+Florida,2012-06,9
+Florida,2012-07,9.2
+Florida,2012-08,9
+Florida,2012-09,8.4
+Florida,2012-10,8.2
+Florida,2012-11,7.9
+Florida,2012-12,8
+Florida,2013-01,8.4
+Florida,2013-02,7.8
+Florida,2013-03,7.5
+Florida,2013-04,7.2
+Florida,2013-05,7.4
+Florida,2013-06,7.9
+Florida,2013-07,7.9
+Florida,2013-08,7.7
+Florida,2013-09,7.5
+Florida,2013-10,7.3
+Florida,2013-11,7
+Florida,2013-12,6.6
+Florida,2014-01,7
+Florida,2014-02,6.8
+Florida,2014-03,6.7
+Florida,2014-04,6.1
+Florida,2014-05,6.4
+Florida,2014-06,6.6
+Florida,2014-07,6.9
+Florida,2014-08,6.8
+Florida,2014-09,6.3
+Florida,2014-10,6.1
+Florida,2014-11,6
+Florida,2014-12,5.7
+Florida,2015-01,6.1
+Florida,2015-02,5.7
+Florida,2015-03,5.5
+Florida,2015-04,5.3
+Florida,2015-05,5.6
+Florida,2015-06,5.8
+Florida,2015-07,5.9
+Florida,2015-08,5.7
+Florida,2015-09,5.4
+Florida,2015-10,5.3
+Florida,2015-11,5.2
+Florida,2015-12,5
+Florida,2016-01,5.2
+Florida,2016-02,4.8
+Florida,2016-03,4.8
+Florida,2016-04,4.7
+Florida,2016-05,4.6
+Florida,2016-06,5.1
+Florida,2016-07,5.2
+Florida,2016-08,5.2
+Florida,2016-09,5.1
+Florida,2016-10,4.9
+Florida,2016-11,4.7
+Florida,2016-12,4.5
+Florida,2017-01,4.9
+Florida,2017-02,4.5
+Florida,2017-03,4.3
+Florida,2017-04,4
+Florida,2017-05,4.1
+Florida,2017-06,4.4
+Florida,2017-07,4.5
+Florida,2017-08,4.6
+Florida,2017-09,4.2
+Florida,2017-10,4
+Florida,2017-11,4
+Florida,2017-12,3.8
+Florida,2018-01,4.1
+Florida,2018-02,3.8
+Florida,2018-03,3.7
+Florida,2018-04,3.4
+Florida,2018-05,3.4
+Florida,2018-06,3.9
+Florida,2018-07,3.9
+Florida,2018-08,3.8
+Florida,2018-09,3.5
+Florida,2018-10,3.5
+Florida,2018-11,3.3
+Florida,2018-12,3.4
+Florida,2019-01,3.8
+Florida,2019-02,3.3
+Florida,2019-03,3.3
+Florida,2019-04,3
+Florida,2019-05,3.1
+Florida,2019-06,3.5
+Florida,2019-07,3.6
+Florida,2019-08,3.5
+Florida,2019-09,3.2
+Florida,2019-10,3.1
+Florida,2019-11,2.9
+Florida,2019-12,2.7
+Florida,2020-01,3.1
+Florida,2020-02,2.7
+Florida,2020-03,4.3
+Florida,2020-04,12.9
+Florida,2020-05,14.3
+Florida,2020-06,11.9
+Florida,2020-07,12.2
+Florida,2020-08,8.9
+Florida,2020-09,8.3
+Florida,2020-10,7
+Florida,2020-11,6.5
+Florida,2020-12,6.2
+Florida,2021-01,6
+Florida,2021-02,5.5
+Florida,2021-03,5.2
+Florida,2021-04,4.9
+Florida,2021-05,4.7
+Florida,2021-06,5.2
+Florida,2021-07,4.9
+Florida,2021-08,4.7
+Florida,2021-09,4.2
+Florida,2021-10,3.9
+Florida,2021-11,3.7
+Florida,2021-12,3.2
+Florida,2022-01,3.7
+Florida,2022-02,3.3
+Florida,2022-03,3
+Florida,2022-04,2.8
+Florida,2022-05,2.8
+Florida,2022-06,3.2
+Florida,2022-07,3.1
+Florida,2022-08,3.1
+Florida,2022-09,2.9
+Florida,2022-10,2.9
+Florida,2022-11,2.8
+Florida,2022-12,2.5
+Florida,2023-01,2.8
+Florida,2023-02,2.7
+Florida,2023-03,2.6
+Florida,2023-04,2.4
+Florida,2023-05,2.7
+Florida,2023-06,3.1
+Florida,2023-07,3.1
+Florida,2023-08,3.3
+Florida,2023-09,3.1
+Florida,2023-10,3.1
+Florida,2023-11,3
+Florida,2023-12,2.9
+Florida,2024-01,3.1
+Florida,2024-02,3.1
+Florida,2024-03,3.3
+Florida,2024-04,3.1
+Florida,2024-05,2.9
+Florida,2024-06,3.5
+Florida,2024-07,3.8
+Florida,2024-08,3.7
+Florida,2024-09,3.4
+Florida,2024-10,3.5
+Florida,2024-11,3.6
+Florida,2024-12,3.1
+Georgia,2010-01,11.2
+Georgia,2010-02,11
+Georgia,2010-03,10.7
+Georgia,2010-04,10.2
+Georgia,2010-05,10.3
+Georgia,2010-06,10.8
+Georgia,2010-07,10.9
+Georgia,2010-08,10.9
+Georgia,2010-09,10.5
+Georgia,2010-10,10.5
+Georgia,2010-11,10.7
+Georgia,2010-12,10.5
+Georgia,2011-01,10.7
+Georgia,2011-02,10.4
+Georgia,2011-03,10.1
+Georgia,2011-04,9.8
+Georgia,2011-05,10
+Georgia,2011-06,10.7
+Georgia,2011-07,10.6
+Georgia,2011-08,10.4
+Georgia,2011-09,10.1
+Georgia,2011-10,9.9
+Georgia,2011-11,9.3
+Georgia,2011-12,9.5
+Georgia,2012-01,9.7
+Georgia,2012-02,9.5
+Georgia,2012-03,9.2
+Georgia,2012-04,8.7
+Georgia,2012-05,9
+Georgia,2012-06,9.6
+Georgia,2012-07,9.6
+Georgia,2012-08,9.2
+Georgia,2012-09,8.6
+Georgia,2012-10,8.6
+Georgia,2012-11,8.2
+Georgia,2012-12,8.5
+Georgia,2013-01,9
+Georgia,2013-02,8.6
+Georgia,2013-03,8.2
+Georgia,2013-04,7.8
+Georgia,2013-05,8.1
+Georgia,2013-06,8.8
+Georgia,2013-07,8.6
+Georgia,2013-08,8.2
+Georgia,2013-09,7.8
+Georgia,2013-10,7.9
+Georgia,2013-11,7.3
+Georgia,2013-12,7.3
+Georgia,2014-01,7.5
+Georgia,2014-02,7.5
+Georgia,2014-03,7.4
+Georgia,2014-04,6.8
+Georgia,2014-05,7.2
+Georgia,2014-06,7.6
+Georgia,2014-07,7.8
+Georgia,2014-08,7.5
+Georgia,2014-09,6.9
+Georgia,2014-10,6.7
+Georgia,2014-11,6.4
+Georgia,2014-12,6.3
+Georgia,2015-01,6.7
+Georgia,2015-02,6.4
+Georgia,2015-03,6.1
+Georgia,2015-04,5.8
+Georgia,2015-05,6.2
+Georgia,2015-06,6.5
+Georgia,2015-07,6.5
+Georgia,2015-08,6.1
+Georgia,2015-09,5.7
+Georgia,2015-10,5.8
+Georgia,2015-11,5.5
+Georgia,2015-12,5.6
+Georgia,2016-01,5.8
+Georgia,2016-02,5.7
+Georgia,2016-03,5.5
+Georgia,2016-04,5.2
+Georgia,2016-05,5.1
+Georgia,2016-06,5.7
+Georgia,2016-07,5.7
+Georgia,2016-08,5.6
+Georgia,2016-09,5.4
+Georgia,2016-10,5.4
+Georgia,2016-11,5
+Georgia,2016-12,5.1
+Georgia,2017-01,5.5
+Georgia,2017-02,5.2
+Georgia,2017-03,4.9
+Georgia,2017-04,4.6
+Georgia,2017-05,4.7
+Georgia,2017-06,5.1
+Georgia,2017-07,5
+Georgia,2017-08,4.9
+Georgia,2017-09,4.4
+Georgia,2017-10,4.4
+Georgia,2017-11,4.2
+Georgia,2017-12,4.2
+Georgia,2018-01,4.5
+Georgia,2018-02,4.4
+Georgia,2018-03,4.1
+Georgia,2018-04,3.7
+Georgia,2018-05,3.8
+Georgia,2018-06,4.4
+Georgia,2018-07,4.1
+Georgia,2018-08,4.1
+Georgia,2018-09,3.6
+Georgia,2018-10,3.8
+Georgia,2018-11,3.5
+Georgia,2018-12,3.9
+Georgia,2019-01,4.3
+Georgia,2019-02,3.8
+Georgia,2019-03,3.7
+Georgia,2019-04,3.2
+Georgia,2019-05,3.6
+Georgia,2019-06,3.9
+Georgia,2019-07,3.8
+Georgia,2019-08,3.8
+Georgia,2019-09,3.2
+Georgia,2019-10,3.3
+Georgia,2019-11,3.1
+Georgia,2019-12,3.3
+Georgia,2020-01,3.8
+Georgia,2020-02,3.5
+Georgia,2020-03,4.2
+Georgia,2020-04,11.9
+Georgia,2020-05,9.9
+Georgia,2020-06,8.6
+Georgia,2020-07,7.9
+Georgia,2020-08,6.8
+Georgia,2020-09,6.3
+Georgia,2020-10,5.3
+Georgia,2020-11,4.9
+Georgia,2020-12,5.1
+Georgia,2021-01,5.1
+Georgia,2021-02,4.6
+Georgia,2021-03,4.4
+Georgia,2021-04,4
+Georgia,2021-05,4.1
+Georgia,2021-06,4.5
+Georgia,2021-07,3.9
+Georgia,2021-08,4
+Georgia,2021-09,3.3
+Georgia,2021-10,3.3
+Georgia,2021-11,3
+Georgia,2021-12,2.8
+Georgia,2022-01,3.5
+Georgia,2022-02,3.2
+Georgia,2022-03,3
+Georgia,2022-04,2.6
+Georgia,2022-05,3
+Georgia,2022-06,3.4
+Georgia,2022-07,3.2
+Georgia,2022-08,3.5
+Georgia,2022-09,3
+Georgia,2022-10,3.3
+Georgia,2022-11,3
+Georgia,2022-12,3
+Georgia,2023-01,3.4
+Georgia,2023-02,3.4
+Georgia,2023-03,3.2
+Georgia,2023-04,2.7
+Georgia,2023-05,3.3
+Georgia,2023-06,3.5
+Georgia,2023-07,3.2
+Georgia,2023-08,3.6
+Georgia,2023-09,3.1
+Georgia,2023-10,3.2
+Georgia,2023-11,2.8
+Georgia,2023-12,2.9
+Georgia,2024-01,3.1
+Georgia,2024-02,3.1
+Georgia,2024-03,3.2
+Georgia,2024-04,2.9
+Georgia,2024-05,3.4
+Georgia,2024-06,4
+Georgia,2024-07,3.9
+Georgia,2024-08,4.1
+Georgia,2024-09,3.4
+Georgia,2024-10,3.5
+Georgia,2024-11,3.5
+Georgia,2024-12,3.4
+Kentucky,2010-01,11.7
+Kentucky,2010-02,11.9
+Kentucky,2010-03,11.3
+Kentucky,2010-04,10.2
+Kentucky,2010-05,10.2
+Kentucky,2010-06,10.3
+Kentucky,2010-07,10.3
+Kentucky,2010-08,9.8
+Kentucky,2010-09,9.6
+Kentucky,2010-10,9.3
+Kentucky,2010-11,9.6
+Kentucky,2010-12,9.5
+Kentucky,2011-01,10.5
+Kentucky,2011-02,10.4
+Kentucky,2011-03,9.9
+Kentucky,2011-04,9.1
+Kentucky,2011-05,9.4
+Kentucky,2011-06,9.8
+Kentucky,2011-07,9.9
+Kentucky,2011-08,9.1
+Kentucky,2011-09,9.1
+Kentucky,2011-10,8.7
+Kentucky,2011-11,8.3
+Kentucky,2011-12,8.4
+Kentucky,2012-01,9.1
+Kentucky,2012-02,9.1
+Kentucky,2012-03,8.7
+Kentucky,2012-04,7.7
+Kentucky,2012-05,8.1
+Kentucky,2012-06,8.6
+Kentucky,2012-07,8.6
+Kentucky,2012-08,8.1
+Kentucky,2012-09,7.7
+Kentucky,2012-10,7.6
+Kentucky,2012-11,7.4
+Kentucky,2012-12,7.8
+Kentucky,2013-01,8.8
+Kentucky,2013-02,8.6
+Kentucky,2013-03,8.4
+Kentucky,2013-04,7.5
+Kentucky,2013-05,7.9
+Kentucky,2013-06,8.6
+Kentucky,2013-07,8.4
+Kentucky,2013-08,7.6
+Kentucky,2013-09,7.6
+Kentucky,2013-10,7.6
+Kentucky,2013-11,7.1
+Kentucky,2013-12,7
+Kentucky,2014-01,7.9
+Kentucky,2014-02,8.2
+Kentucky,2014-03,7.8
+Kentucky,2014-04,6.4
+Kentucky,2014-05,6.7
+Kentucky,2014-06,6.7
+Kentucky,2014-07,6.7
+Kentucky,2014-08,5.9
+Kentucky,2014-09,5.5
+Kentucky,2014-10,5.1
+Kentucky,2014-11,5.1
+Kentucky,2014-12,4.9
+Kentucky,2015-01,6
+Kentucky,2015-02,5.8
+Kentucky,2015-03,5.7
+Kentucky,2015-04,4.9
+Kentucky,2015-05,5.3
+Kentucky,2015-06,5.6
+Kentucky,2015-07,5.7
+Kentucky,2015-08,4.8
+Kentucky,2015-09,4.7
+Kentucky,2015-10,4.7
+Kentucky,2015-11,4.7
+Kentucky,2015-12,4.9
+Kentucky,2016-01,5.7
+Kentucky,2016-02,5.7
+Kentucky,2016-03,5.5
+Kentucky,2016-04,4.7
+Kentucky,2016-05,4.8
+Kentucky,2016-06,5.4
+Kentucky,2016-07,5.2
+Kentucky,2016-08,4.8
+Kentucky,2016-09,4.8
+Kentucky,2016-10,4.7
+Kentucky,2016-11,4.3
+Kentucky,2016-12,4.7
+Kentucky,2017-01,5.7
+Kentucky,2017-02,5.7
+Kentucky,2017-03,5.3
+Kentucky,2017-04,4.6
+Kentucky,2017-05,4.7
+Kentucky,2017-06,5.4
+Kentucky,2017-07,5.3
+Kentucky,2017-08,4.7
+Kentucky,2017-09,4.2
+Kentucky,2017-10,4.1
+Kentucky,2017-11,3.8
+Kentucky,2017-12,3.9
+Kentucky,2018-01,4.7
+Kentucky,2018-02,4.8
+Kentucky,2018-03,4.7
+Kentucky,2018-04,3.9
+Kentucky,2018-05,4
+Kentucky,2018-06,4.8
+Kentucky,2018-07,4.7
+Kentucky,2018-08,3.9
+Kentucky,2018-09,4
+Kentucky,2018-10,3.9
+Kentucky,2018-11,3.5
+Kentucky,2018-12,3.9
+Kentucky,2019-01,4.7
+Kentucky,2019-02,4.7
+Kentucky,2019-03,4.7
+Kentucky,2019-04,3.7
+Kentucky,2019-05,4
+Kentucky,2019-06,4.6
+Kentucky,2019-07,4.7
+Kentucky,2019-08,3.9
+Kentucky,2019-09,3.6
+Kentucky,2019-10,3.6
+Kentucky,2019-11,3.5
+Kentucky,2019-12,3.6
+Kentucky,2020-01,4.5
+Kentucky,2020-02,4.4
+Kentucky,2020-03,5.2
+Kentucky,2020-04,16.2
+Kentucky,2020-05,13
+Kentucky,2020-06,5.8
+Kentucky,2020-07,6.1
+Kentucky,2020-08,4.8
+Kentucky,2020-09,4.8
+Kentucky,2020-10,4.3
+Kentucky,2020-11,4.1
+Kentucky,2020-12,4.6
+Kentucky,2021-01,5.1
+Kentucky,2021-02,5.1
+Kentucky,2021-03,4.9
+Kentucky,2021-04,4.2
+Kentucky,2021-05,4.2
+Kentucky,2021-06,5.5
+Kentucky,2021-07,5
+Kentucky,2021-08,4.2
+Kentucky,2021-09,4.1
+Kentucky,2021-10,4
+Kentucky,2021-11,3.7
+Kentucky,2021-12,3.6
+Kentucky,2022-01,4.5
+Kentucky,2022-02,4.4
+Kentucky,2022-03,4.4
+Kentucky,2022-04,3.5
+Kentucky,2022-05,3.9
+Kentucky,2022-06,4.5
+Kentucky,2022-07,4.5
+Kentucky,2022-08,4
+Kentucky,2022-09,3.7
+Kentucky,2022-10,3.9
+Kentucky,2022-11,3.7
+Kentucky,2022-12,3.6
+Kentucky,2023-01,4.5
+Kentucky,2023-02,4.7
+Kentucky,2023-03,4.3
+Kentucky,2023-04,3.5
+Kentucky,2023-05,4.1
+Kentucky,2023-06,4.7
+Kentucky,2023-07,4.6
+Kentucky,2023-08,4.1
+Kentucky,2023-09,4
+Kentucky,2023-10,3.9
+Kentucky,2023-11,3.8
+Kentucky,2023-12,3.9
+Kentucky,2024-01,4.8
+Kentucky,2024-02,5.1
+Kentucky,2024-03,5.1
+Kentucky,2024-04,4.4
+Kentucky,2024-05,4.5
+Kentucky,2024-06,5
+Kentucky,2024-07,5.4
+Kentucky,2024-08,5.2
+Kentucky,2024-09,4.9
+Kentucky,2024-10,4.7
+Kentucky,2024-11,4.9
+Kentucky,2024-12,5.1
+Louisiana,2010-01,7.8
+Louisiana,2010-02,6.9
+Louisiana,2010-03,6.9
+Louisiana,2010-04,6.8
+Louisiana,2010-05,7.2
+Louisiana,2010-06,8.3
+Louisiana,2010-07,8.1
+Louisiana,2010-08,8.2
+Louisiana,2010-09,7.8
+Louisiana,2010-10,7.6
+Louisiana,2010-11,7.5
+Louisiana,2010-12,7.2
+Louisiana,2011-01,8.3
+Louisiana,2011-02,7.4
+Louisiana,2011-03,7.3
+Louisiana,2011-04,6.9
+Louisiana,2011-05,7.2
+Louisiana,2011-06,8.3
+Louisiana,2011-07,8
+Louisiana,2011-08,7.7
+Louisiana,2011-09,7.5
+Louisiana,2011-10,7.2
+Louisiana,2011-11,6.7
+Louisiana,2011-12,6.6
+Louisiana,2012-01,7.5
+Louisiana,2012-02,6.8
+Louisiana,2012-03,6.7
+Louisiana,2012-04,6.2
+Louisiana,2012-05,6.7
+Louisiana,2012-06,7.9
+Louisiana,2012-07,7.6
+Louisiana,2012-08,7
+Louisiana,2012-09,6.4
+Louisiana,2012-10,6.2
+Louisiana,2012-11,5.6
+Louisiana,2012-12,6.1
+Louisiana,2013-01,7.5
+Louisiana,2013-02,6.4
+Louisiana,2013-03,6.3
+Louisiana,2013-04,6.1
+Louisiana,2013-05,6.5
+Louisiana,2013-06,7.6
+Louisiana,2013-07,7.1
+Louisiana,2013-08,6.7
+Louisiana,2013-09,6.3
+Louisiana,2013-10,6
+Louisiana,2013-11,5.5
+Louisiana,2013-12,5
+Louisiana,2014-01,5.8
+Louisiana,2014-02,5.3
+Louisiana,2014-03,5.5
+Louisiana,2014-04,5.1
+Louisiana,2014-05,5.9
+Louisiana,2014-06,6.8
+Louisiana,2014-07,7.2
+Louisiana,2014-08,7.2
+Louisiana,2014-09,6.8
+Louisiana,2014-10,6.5
+Louisiana,2014-11,6.6
+Louisiana,2014-12,6.1
+Louisiana,2015-01,7
+Louisiana,2015-02,6.3
+Louisiana,2015-03,6.3
+Louisiana,2015-04,6.1
+Louisiana,2015-05,6.4
+Louisiana,2015-06,7.1
+Louisiana,2015-07,6.8
+Louisiana,2015-08,6.4
+Louisiana,2015-09,6.1
+Louisiana,2015-10,6
+Louisiana,2015-11,5.6
+Louisiana,2015-12,5.2
+Louisiana,2016-01,6.3
+Louisiana,2016-02,5.7
+Louisiana,2016-03,5.9
+Louisiana,2016-04,5.7
+Louisiana,2016-05,5.8
+Louisiana,2016-06,7
+Louisiana,2016-07,6.8
+Louisiana,2016-08,6.6
+Louisiana,2016-09,6.5
+Louisiana,2016-10,5.9
+Louisiana,2016-11,5.4
+Louisiana,2016-12,5.3
+Louisiana,2017-01,6.2
+Louisiana,2017-02,5.4
+Louisiana,2017-03,5.1
+Louisiana,2017-04,5
+Louisiana,2017-05,5
+Louisiana,2017-06,5.8
+Louisiana,2017-07,5.7
+Louisiana,2017-08,5.5
+Louisiana,2017-09,4.9
+Louisiana,2017-10,4.3
+Louisiana,2017-11,4.4
+Louisiana,2017-12,4.1
+Louisiana,2018-01,4.8
+Louisiana,2018-02,4.5
+Louisiana,2018-03,4.6
+Louisiana,2018-04,4.5
+Louisiana,2018-05,4.7
+Louisiana,2018-06,6
+Louisiana,2018-07,5.7
+Louisiana,2018-08,5.2
+Louisiana,2018-09,4.8
+Louisiana,2018-10,4.5
+Louisiana,2018-11,4.3
+Louisiana,2018-12,4.3
+Louisiana,2019-01,5.1
+Louisiana,2019-02,4.3
+Louisiana,2019-03,4
+Louisiana,2019-04,3.8
+Louisiana,2019-05,4.4
+Louisiana,2019-06,5.4
+Louisiana,2019-07,5.3
+Louisiana,2019-08,5
+Louisiana,2019-09,4.7
+Louisiana,2019-10,4.7
+Louisiana,2019-11,4.6
+Louisiana,2019-12,4.4
+Louisiana,2020-01,4.8
+Louisiana,2020-02,3.9
+Louisiana,2020-03,6.8
+Louisiana,2020-04,13
+Louisiana,2020-05,12.6
+Louisiana,2020-06,11.7
+Louisiana,2020-07,11
+Louisiana,2020-08,9
+Louisiana,2020-09,9.2
+Louisiana,2020-10,7.9
+Louisiana,2020-11,6.9
+Louisiana,2020-12,6.9
+Louisiana,2021-01,7.1
+Louisiana,2021-02,6.6
+Louisiana,2021-03,6.2
+Louisiana,2021-04,6.2
+Louisiana,2021-05,6.2
+Louisiana,2021-06,7
+Louisiana,2021-07,6.1
+Louisiana,2021-08,5.3
+Louisiana,2021-09,5
+Louisiana,2021-10,4.2
+Louisiana,2021-11,3.8
+Louisiana,2021-12,3.4
+Louisiana,2022-01,4.2
+Louisiana,2022-02,3.7
+Louisiana,2022-03,3.5
+Louisiana,2022-04,3.3
+Louisiana,2022-05,3.5
+Louisiana,2022-06,4.5
+Louisiana,2022-07,4.2
+Louisiana,2022-08,3.9
+Louisiana,2022-09,3.5
+Louisiana,2022-10,3.2
+Louisiana,2022-11,3.2
+Louisiana,2022-12,3.2
+Louisiana,2023-01,3.8
+Louisiana,2023-02,3.5
+Louisiana,2023-03,3.3
+Louisiana,2023-04,3
+Louisiana,2023-05,3.6
+Louisiana,2023-06,4.2
+Louisiana,2023-07,3.7
+Louisiana,2023-08,3.9
+Louisiana,2023-09,3.9
+Louisiana,2023-10,3.9
+Louisiana,2023-11,3.7
+Louisiana,2023-12,3.8
+Louisiana,2024-01,4.3
+Louisiana,2024-02,4.4
+Louisiana,2024-03,4.5
+Louisiana,2024-04,3.4
+Louisiana,2024-05,3.6
+Louisiana,2024-06,4.5
+Louisiana,2024-07,4.3
+Louisiana,2024-08,4.3
+Louisiana,2024-09,4.3
+Louisiana,2024-10,4.5
+Louisiana,2024-11,4.3
+Louisiana,2024-12,4.1
+Mississippi,2010-01,11.1
+Mississippi,2010-02,10.7
+Mississippi,2010-03,10.3
+Mississippi,2010-04,9.6
+Mississippi,2010-05,10.2
+Mississippi,2010-06,10.6
+Mississippi,2010-07,10.8
+Mississippi,2010-08,9.6
+Mississippi,2010-09,9.7
+Mississippi,2010-10,9.4
+Mississippi,2010-11,9.7
+Mississippi,2010-12,9.7
+Mississippi,2011-01,10.1
+Mississippi,2011-02,10
+Mississippi,2011-03,9.6
+Mississippi,2011-04,9.2
+Mississippi,2011-05,9.8
+Mississippi,2011-06,10.9
+Mississippi,2011-07,10.6
+Mississippi,2011-08,9.9
+Mississippi,2011-09,9.7
+Mississippi,2011-10,9.5
+Mississippi,2011-11,8.9
+Mississippi,2011-12,9
+Mississippi,2012-01,9.5
+Mississippi,2012-02,9.1
+Mississippi,2012-03,8.6
+Mississippi,2012-04,8.1
+Mississippi,2012-05,8.8
+Mississippi,2012-06,9.8
+Mississippi,2012-07,9.8
+Mississippi,2012-08,8.9
+Mississippi,2012-09,8.6
+Mississippi,2012-10,8.3
+Mississippi,2012-11,7.8
+Mississippi,2012-12,8.4
+Mississippi,2013-01,9.5
+Mississippi,2013-02,8.8
+Mississippi,2013-03,8.1
+Mississippi,2013-04,7.8
+Mississippi,2013-05,8.7
+Mississippi,2013-06,9.6
+Mississippi,2013-07,9.1
+Mississippi,2013-08,8.6
+Mississippi,2013-09,8.3
+Mississippi,2013-10,8.2
+Mississippi,2013-11,7.7
+Mississippi,2013-12,7.5
+Mississippi,2014-01,8.4
+Mississippi,2014-02,8.1
+Mississippi,2014-03,7.9
+Mississippi,2014-04,6.9
+Mississippi,2014-05,7.9
+Mississippi,2014-06,8.6
+Mississippi,2014-07,8.5
+Mississippi,2014-08,7.7
+Mississippi,2014-09,7.2
+Mississippi,2014-10,6.9
+Mississippi,2014-11,6.5
+Mississippi,2014-12,6.6
+Mississippi,2015-01,7.3
+Mississippi,2015-02,6.6
+Mississippi,2015-03,6.2
+Mississippi,2015-04,5.9
+Mississippi,2015-05,6.9
+Mississippi,2015-06,7.3
+Mississippi,2015-07,7.2
+Mississippi,2015-08,6.3
+Mississippi,2015-09,6.1
+Mississippi,2015-10,6
+Mississippi,2015-11,6
+Mississippi,2015-12,6.4
+Mississippi,2016-01,6.4
+Mississippi,2016-02,6
+Mississippi,2016-03,5.8
+Mississippi,2016-04,5.4
+Mississippi,2016-05,6
+Mississippi,2016-06,7
+Mississippi,2016-07,6.7
+Mississippi,2016-08,6
+Mississippi,2016-09,5.8
+Mississippi,2016-10,5.6
+Mississippi,2016-11,5.2
+Mississippi,2016-12,5.4
+Mississippi,2017-01,6
+Mississippi,2017-02,5.2
+Mississippi,2017-03,5.2
+Mississippi,2017-04,4.8
+Mississippi,2017-05,5.4
+Mississippi,2017-06,6.3
+Mississippi,2017-07,6.2
+Mississippi,2017-08,5.4
+Mississippi,2017-09,4.8
+Mississippi,2017-10,4.4
+Mississippi,2017-11,4.6
+Mississippi,2017-12,4.5
+Mississippi,2018-01,4.9
+Mississippi,2018-02,5.1
+Mississippi,2018-03,4.6
+Mississippi,2018-04,4.5
+Mississippi,2018-05,4.8
+Mississippi,2018-06,6
+Mississippi,2018-07,5.6
+Mississippi,2018-08,5.1
+Mississippi,2018-09,4.6
+Mississippi,2018-10,4.4
+Mississippi,2018-11,4.5
+Mississippi,2018-12,5.1
+Mississippi,2019-01,5.7
+Mississippi,2019-02,5.4
+Mississippi,2019-03,5.2
+Mississippi,2019-04,4.9
+Mississippi,2019-05,5.1
+Mississippi,2019-06,6.6
+Mississippi,2019-07,6.7
+Mississippi,2019-08,6
+Mississippi,2019-09,5.4
+Mississippi,2019-10,5
+Mississippi,2019-11,5.1
+Mississippi,2019-12,5
+Mississippi,2020-01,5.5
+Mississippi,2020-02,5.3
+Mississippi,2020-03,6.7
+Mississippi,2020-04,14.8
+Mississippi,2020-05,11.4
+Mississippi,2020-06,10.2
+Mississippi,2020-07,9.3
+Mississippi,2020-08,7.3
+Mississippi,2020-09,7
+Mississippi,2020-10,6.1
+Mississippi,2020-11,6.1
+Mississippi,2020-12,6.2
+Mississippi,2021-01,6.6
+Mississippi,2021-02,6.4
+Mississippi,2021-03,6.1
+Mississippi,2021-04,5.7
+Mississippi,2021-05,5.8
+Mississippi,2021-06,6.9
+Mississippi,2021-07,6.3
+Mississippi,2021-08,5.6
+Mississippi,2021-09,4.6
+Mississippi,2021-10,4.1
+Mississippi,2021-11,3.6
+Mississippi,2021-12,3.5
+Mississippi,2022-01,4.6
+Mississippi,2022-02,4.1
+Mississippi,2022-03,3.4
+Mississippi,2022-04,3.4
+Mississippi,2022-05,3.6
+Mississippi,2022-06,4.7
+Mississippi,2022-07,4.5
+Mississippi,2022-08,4
+Mississippi,2022-09,3.7
+Mississippi,2022-10,3.4
+Mississippi,2022-11,3.3
+Mississippi,2022-12,3.2
+Mississippi,2023-01,3.5
+Mississippi,2023-02,3.3
+Mississippi,2023-03,3.1
+Mississippi,2023-04,2.7
+Mississippi,2023-05,3.1
+Mississippi,2023-06,4.1
+Mississippi,2023-07,3.9
+Mississippi,2023-08,3.6
+Mississippi,2023-09,3
+Mississippi,2023-10,2.7
+Mississippi,2023-11,2.5
+Mississippi,2023-12,2.6
+Mississippi,2024-01,3.4
+Mississippi,2024-02,2.8
+Mississippi,2024-03,2.6
+Mississippi,2024-04,1.8
+Mississippi,2024-05,2.9
+Mississippi,2024-06,3.7
+Mississippi,2024-07,3.3
+Mississippi,2024-08,3.2
+Mississippi,2024-09,3
+Mississippi,2024-10,3.1
+Mississippi,2024-11,3.2
+Mississippi,2024-12,3.5
+New Mexico,2010-01,7.9
+New Mexico,2010-02,8.1
+New Mexico,2010-03,7.8
+New Mexico,2010-04,7.5
+New Mexico,2010-05,7.5
+New Mexico,2010-06,8.5
+New Mexico,2010-07,8.6
+New Mexico,2010-08,8.1
+New Mexico,2010-09,7.5
+New Mexico,2010-10,7.4
+New Mexico,2010-11,7.4
+New Mexico,2010-12,7
+New Mexico,2011-01,7.7
+New Mexico,2011-02,7.4
+New Mexico,2011-03,6.9
+New Mexico,2011-04,6.6
+New Mexico,2011-05,6.7
+New Mexico,2011-06,7.9
+New Mexico,2011-07,8
+New Mexico,2011-08,7.6
+New Mexico,2011-09,7.3
+New Mexico,2011-10,7.1
+New Mexico,2011-11,6.8
+New Mexico,2011-12,6.8
+New Mexico,2012-01,7.4
+New Mexico,2012-02,7.2
+New Mexico,2012-03,6.8
+New Mexico,2012-04,6.2
+New Mexico,2012-05,6.5
+New Mexico,2012-06,7.8
+New Mexico,2012-07,8
+New Mexico,2012-08,7.2
+New Mexico,2012-09,6.6
+New Mexico,2012-10,6.7
+New Mexico,2012-11,6.6
+New Mexico,2012-12,6.8
+New Mexico,2013-01,7.4
+New Mexico,2013-02,7.2
+New Mexico,2013-03,6.5
+New Mexico,2013-04,6.3
+New Mexico,2013-05,6.5
+New Mexico,2013-06,7.7
+New Mexico,2013-07,7.7
+New Mexico,2013-08,7
+New Mexico,2013-09,6.7
+New Mexico,2013-10,6.9
+New Mexico,2013-11,6.6
+New Mexico,2013-12,6.4
+New Mexico,2014-01,6.8
+New Mexico,2014-02,7
+New Mexico,2014-03,6.6
+New Mexico,2014-04,5.9
+New Mexico,2014-05,6.3
+New Mexico,2014-06,7.3
+New Mexico,2014-07,7.6
+New Mexico,2014-08,6.9
+New Mexico,2014-09,6.4
+New Mexico,2014-10,6.1
+New Mexico,2014-11,6.2
+New Mexico,2014-12,5.9
+New Mexico,2015-01,6.6
+New Mexico,2015-02,6.7
+New Mexico,2015-03,6.4
+New Mexico,2015-04,6.2
+New Mexico,2015-05,6.5
+New Mexico,2015-06,7.4
+New Mexico,2015-07,7.5
+New Mexico,2015-08,6.7
+New Mexico,2015-09,6.4
+New Mexico,2015-10,6.4
+New Mexico,2015-11,6.4
+New Mexico,2015-12,6.2
+New Mexico,2016-01,6.5
+New Mexico,2016-02,6.6
+New Mexico,2016-03,6.4
+New Mexico,2016-04,6.3
+New Mexico,2016-05,6.2
+New Mexico,2016-06,7.5
+New Mexico,2016-07,7.6
+New Mexico,2016-08,7.3
+New Mexico,2016-09,6.9
+New Mexico,2016-10,6.8
+New Mexico,2016-11,6.5
+New Mexico,2016-12,6.4
+New Mexico,2017-01,7
+New Mexico,2017-02,6.8
+New Mexico,2017-03,6.3
+New Mexico,2017-04,5.9
+New Mexico,2017-05,5.8
+New Mexico,2017-06,6.6
+New Mexico,2017-07,6.8
+New Mexico,2017-08,6.2
+New Mexico,2017-09,5.6
+New Mexico,2017-10,5.3
+New Mexico,2017-11,5.3
+New Mexico,2017-12,5.1
+New Mexico,2018-01,5.4
+New Mexico,2018-02,5.2
+New Mexico,2018-03,4.8
+New Mexico,2018-04,4.4
+New Mexico,2018-05,4.2
+New Mexico,2018-06,5.6
+New Mexico,2018-07,5.4
+New Mexico,2018-08,5
+New Mexico,2018-09,4.7
+New Mexico,2018-10,4.7
+New Mexico,2018-11,4.7
+New Mexico,2018-12,5
+New Mexico,2019-01,5.5
+New Mexico,2019-02,5.1
+New Mexico,2019-03,4.7
+New Mexico,2019-04,4.6
+New Mexico,2019-05,4.6
+New Mexico,2019-06,5.7
+New Mexico,2019-07,5.9
+New Mexico,2019-08,5
+New Mexico,2019-09,4.5
+New Mexico,2019-10,4.6
+New Mexico,2019-11,4.6
+New Mexico,2019-12,4.6
+New Mexico,2020-01,5.2
+New Mexico,2020-02,5.1
+New Mexico,2020-03,6.3
+New Mexico,2020-04,8.4
+New Mexico,2020-05,9.2
+New Mexico,2020-06,9.6
+New Mexico,2020-07,10
+New Mexico,2020-08,8.5
+New Mexico,2020-09,8.7
+New Mexico,2020-10,7.8
+New Mexico,2020-11,7.9
+New Mexico,2020-12,8.1
+New Mexico,2021-01,8.5
+New Mexico,2021-02,8.2
+New Mexico,2021-03,7.7
+New Mexico,2021-04,7.6
+New Mexico,2021-05,7.2
+New Mexico,2021-06,8.4
+New Mexico,2021-07,7.9
+New Mexico,2021-08,6.9
+New Mexico,2021-09,6
+New Mexico,2021-10,5.7
+New Mexico,2021-11,5.5
+New Mexico,2021-12,5.1
+New Mexico,2022-01,5.6
+New Mexico,2022-02,5
+New Mexico,2022-03,4.4
+New Mexico,2022-04,4.1
+New Mexico,2022-05,3.9
+New Mexico,2022-06,4.7
+New Mexico,2022-07,4.3
+New Mexico,2022-08,3.7
+New Mexico,2022-09,3.4
+New Mexico,2022-10,3.3
+New Mexico,2022-11,3.3
+New Mexico,2022-12,3.1
+New Mexico,2023-01,3.8
+New Mexico,2023-02,3.8
+New Mexico,2023-03,3.3
+New Mexico,2023-04,3.2
+New Mexico,2023-05,3.4
+New Mexico,2023-06,4.3
+New Mexico,2023-07,4.5
+New Mexico,2023-08,4.1
+New Mexico,2023-09,3.7
+New Mexico,2023-10,3.7
+New Mexico,2023-11,3.7
+New Mexico,2023-12,3.6
+New Mexico,2024-01,4.1
+New Mexico,2024-02,3.8
+New Mexico,2024-03,3.2
+New Mexico,2024-04,3.3
+New Mexico,2024-05,4
+New Mexico,2024-06,4.8
+New Mexico,2024-07,5.3
+New Mexico,2024-08,4.5
+New Mexico,2024-09,4.1
+New Mexico,2024-10,4.4
+New Mexico,2024-11,4.4
+New Mexico,2024-12,3.9
+North Carolina,2010-01,11.9
+North Carolina,2010-02,12
+North Carolina,2010-03,11.6
+North Carolina,2010-04,10.8
+North Carolina,2010-05,10.7
+North Carolina,2010-06,10.7
+North Carolina,2010-07,10.6
+North Carolina,2010-08,10.4
+North Carolina,2010-09,9.7
+North Carolina,2010-10,9.8
+North Carolina,2010-11,10.4
+North Carolina,2010-12,10.3
+North Carolina,2011-01,11.3
+North Carolina,2011-02,10.7
+North Carolina,2011-03,10.3
+North Carolina,2011-04,9.8
+North Carolina,2011-05,10.1
+North Carolina,2011-06,10.6
+North Carolina,2011-07,10.6
+North Carolina,2011-08,10.5
+North Carolina,2011-09,9.9
+North Carolina,2011-10,9.9
+North Carolina,2011-11,9.8
+North Carolina,2011-12,9.8
+North Carolina,2012-01,10.3
+North Carolina,2012-02,10
+North Carolina,2012-03,9.5
+North Carolina,2012-04,9
+North Carolina,2012-05,9.3
+North Carolina,2012-06,9.7
+North Carolina,2012-07,9.9
+North Carolina,2012-08,9.8
+North Carolina,2012-09,9
+North Carolina,2012-10,9.2
+North Carolina,2012-11,9.2
+North Carolina,2012-12,9.4
+North Carolina,2013-01,10.1
+North Carolina,2013-02,9.4
+North Carolina,2013-03,8.5
+North Carolina,2013-04,7.9
+North Carolina,2013-05,8
+North Carolina,2013-06,8.2
+North Carolina,2013-07,8
+North Carolina,2013-08,7.5
+North Carolina,2013-09,6.4
+North Carolina,2013-10,6.4
+North Carolina,2013-11,6.4
+North Carolina,2013-12,6.2
+North Carolina,2014-01,6.6
+North Carolina,2014-02,6.7
+North Carolina,2014-03,6.3
+North Carolina,2014-04,5.6
+North Carolina,2014-05,6.2
+North Carolina,2014-06,6.3
+North Carolina,2014-07,6.6
+North Carolina,2014-08,6.5
+North Carolina,2014-09,5.8
+North Carolina,2014-10,5.7
+North Carolina,2014-11,5.7
+North Carolina,2014-12,5.4
+North Carolina,2015-01,6
+North Carolina,2015-02,5.8
+North Carolina,2015-03,5.6
+North Carolina,2015-04,5.3
+North Carolina,2015-05,5.9
+North Carolina,2015-06,6
+North Carolina,2015-07,6.1
+North Carolina,2015-08,5.9
+North Carolina,2015-09,5.3
+North Carolina,2015-10,5.4
+North Carolina,2015-11,5.4
+North Carolina,2015-12,5.2
+North Carolina,2016-01,5.4
+North Carolina,2016-02,5.2
+North Carolina,2016-03,5.1
+North Carolina,2016-04,4.8
+North Carolina,2016-05,4.9
+North Carolina,2016-06,5.3
+North Carolina,2016-07,5.3
+North Carolina,2016-08,5.3
+North Carolina,2016-09,4.9
+North Carolina,2016-10,5.2
+North Carolina,2016-11,4.8
+North Carolina,2016-12,4.7
+North Carolina,2017-01,5.1
+North Carolina,2017-02,4.8
+North Carolina,2017-03,4.4
+North Carolina,2017-04,4.1
+North Carolina,2017-05,4.5
+North Carolina,2017-06,4.7
+North Carolina,2017-07,4.8
+North Carolina,2017-08,4.9
+North Carolina,2017-09,4.2
+North Carolina,2017-10,4.2
+North Carolina,2017-11,4.3
+North Carolina,2017-12,4.1
+North Carolina,2018-01,4.4
+North Carolina,2018-02,4.3
+North Carolina,2018-03,4
+North Carolina,2018-04,3.7
+North Carolina,2018-05,3.8
+North Carolina,2018-06,4.3
+North Carolina,2018-07,4.2
+North Carolina,2018-08,4.1
+North Carolina,2018-09,3.7
+North Carolina,2018-10,3.8
+North Carolina,2018-11,3.8
+North Carolina,2018-12,3.9
+North Carolina,2019-01,4.5
+North Carolina,2019-02,4.1
+North Carolina,2019-03,4
+North Carolina,2019-04,3.5
+North Carolina,2019-05,3.8
+North Carolina,2019-06,4.1
+North Carolina,2019-07,4.2
+North Carolina,2019-08,4.1
+North Carolina,2019-09,3.4
+North Carolina,2019-10,3.6
+North Carolina,2019-11,3.6
+North Carolina,2019-12,3.4
+North Carolina,2020-01,4
+North Carolina,2020-02,3.8
+North Carolina,2020-03,4.6
+North Carolina,2020-04,13.8
+North Carolina,2020-05,11.9
+North Carolina,2020-06,9.9
+North Carolina,2020-07,9.2
+North Carolina,2020-08,6.9
+North Carolina,2020-09,6.3
+North Carolina,2020-10,5.5
+North Carolina,2020-11,5.5
+North Carolina,2020-12,5.6
+North Carolina,2021-01,6.2
+North Carolina,2021-02,6
+North Carolina,2021-03,5.4
+North Carolina,2021-04,5.1
+North Carolina,2021-05,5.1
+North Carolina,2021-06,5.5
+North Carolina,2021-07,5.1
+North Carolina,2021-08,4.9
+North Carolina,2021-09,4.2
+North Carolina,2021-10,4.2
+North Carolina,2021-11,3.9
+North Carolina,2021-12,3.3
+North Carolina,2022-01,4.1
+North Carolina,2022-02,3.9
+North Carolina,2022-03,3.6
+North Carolina,2022-04,3.3
+North Carolina,2022-05,3.5
+North Carolina,2022-06,3.9
+North Carolina,2022-07,3.9
+North Carolina,2022-08,4.1
+North Carolina,2022-09,3.4
+North Carolina,2022-10,3.7
+North Carolina,2022-11,3.6
+North Carolina,2022-12,3.3
+North Carolina,2023-01,3.8
+North Carolina,2023-02,3.7
+North Carolina,2023-03,3.5
+North Carolina,2023-04,2.9
+North Carolina,2023-05,3.4
+North Carolina,2023-06,3.6
+North Carolina,2023-07,3.6
+North Carolina,2023-08,3.7
+North Carolina,2023-09,3.2
+North Carolina,2023-10,3.4
+North Carolina,2023-11,3.4
+North Carolina,2023-12,3.2
+North Carolina,2024-01,3.6
+North Carolina,2024-02,3.7
+North Carolina,2024-03,3.7
+North Carolina,2024-04,3.3
+North Carolina,2024-05,3.5
+North Carolina,2024-06,4.1
+North Carolina,2024-07,4.3
+North Carolina,2024-08,4.3
+North Carolina,2024-09,3.2
+North Carolina,2024-10,3.6
+North Carolina,2024-11,3.7
+North Carolina,2024-12,3.4
+South Carolina,2010-01,12.7
+South Carolina,2010-02,12.1
+South Carolina,2010-03,11.5
+South Carolina,2010-04,10.7
+South Carolina,2010-05,10.9
+South Carolina,2010-06,11.3
+South Carolina,2010-07,11.5
+South Carolina,2010-08,11.5
+South Carolina,2010-09,10.8
+South Carolina,2010-10,10.8
+South Carolina,2010-11,11.1
+South Carolina,2010-12,11
+South Carolina,2011-01,11.2
+South Carolina,2011-02,10.9
+South Carolina,2011-03,10.4
+South Carolina,2011-04,10
+South Carolina,2011-05,10.4
+South Carolina,2011-06,11
+South Carolina,2011-07,10.9
+South Carolina,2011-08,10.8
+South Carolina,2011-09,10.2
+South Carolina,2011-10,10
+South Carolina,2011-11,9.5
+South Carolina,2011-12,9.7
+South Carolina,2012-01,10
+South Carolina,2012-02,9.8
+South Carolina,2012-03,9.2
+South Carolina,2012-04,8.5
+South Carolina,2012-05,9
+South Carolina,2012-06,9.5
+South Carolina,2012-07,9.5
+South Carolina,2012-08,9.2
+South Carolina,2012-09,8.3
+South Carolina,2012-10,8.4
+South Carolina,2012-11,8.2
+South Carolina,2012-12,8.5
+South Carolina,2013-01,9.1
+South Carolina,2013-02,8.4
+South Carolina,2013-03,7.8
+South Carolina,2013-04,7.1
+South Carolina,2013-05,7.4
+South Carolina,2013-06,8
+South Carolina,2013-07,7.7
+South Carolina,2013-08,7.6
+South Carolina,2013-09,6.8
+South Carolina,2013-10,6.8
+South Carolina,2013-11,6.3
+South Carolina,2013-12,6.1
+South Carolina,2014-01,6.5
+South Carolina,2014-02,6.1
+South Carolina,2014-03,6
+South Carolina,2014-04,5.2
+South Carolina,2014-05,5.7
+South Carolina,2014-06,6.3
+South Carolina,2014-07,6.8
+South Carolina,2014-08,7
+South Carolina,2014-09,6.4
+South Carolina,2014-10,6.4
+South Carolina,2014-11,6.4
+South Carolina,2014-12,6.3
+South Carolina,2015-01,7
+South Carolina,2015-02,6.6
+South Carolina,2015-03,6.1
+South Carolina,2015-04,5.6
+South Carolina,2015-05,6
+South Carolina,2015-06,6.2
+South Carolina,2015-07,6.1
+South Carolina,2015-08,5.9
+South Carolina,2015-09,5.3
+South Carolina,2015-10,5.5
+South Carolina,2015-11,5.3
+South Carolina,2015-12,5.4
+South Carolina,2016-01,5.7
+South Carolina,2016-02,5.5
+South Carolina,2016-03,5.3
+South Carolina,2016-04,4.6
+South Carolina,2016-05,4.5
+South Carolina,2016-06,5.2
+South Carolina,2016-07,5.1
+South Carolina,2016-08,5.1
+South Carolina,2016-09,4.5
+South Carolina,2016-10,4.5
+South Carolina,2016-11,4.2
+South Carolina,2016-12,4.4
+South Carolina,2017-01,5.1
+South Carolina,2017-02,4.7
+South Carolina,2017-03,4.1
+South Carolina,2017-04,3.5
+South Carolina,2017-05,3.7
+South Carolina,2017-06,4.3
+South Carolina,2017-07,4.5
+South Carolina,2017-08,4.5
+South Carolina,2017-09,3.8
+South Carolina,2017-10,4
+South Carolina,2017-11,4
+South Carolina,2017-12,4.2
+South Carolina,2018-01,4.5
+South Carolina,2018-02,4.1
+South Carolina,2018-03,3.4
+South Carolina,2018-04,2.5
+South Carolina,2018-05,2.8
+South Carolina,2018-06,3.6
+South Carolina,2018-07,3.6
+South Carolina,2018-08,3.5
+South Carolina,2018-09,3
+South Carolina,2018-10,3.2
+South Carolina,2018-11,3
+South Carolina,2018-12,3.2
+South Carolina,2019-01,3.7
+South Carolina,2019-02,3.5
+South Carolina,2019-03,3.3
+South Carolina,2019-04,2.6
+South Carolina,2019-05,2.7
+South Carolina,2019-06,3
+South Carolina,2019-07,2.9
+South Carolina,2019-08,2.5
+South Carolina,2019-09,1.9
+South Carolina,2019-10,2.4
+South Carolina,2019-11,2.4
+South Carolina,2019-12,2.6
+South Carolina,2020-01,3.2
+South Carolina,2020-02,3.2
+South Carolina,2020-03,3.4
+South Carolina,2020-04,11.1
+South Carolina,2020-05,9.2
+South Carolina,2020-06,7.9
+South Carolina,2020-07,7.4
+South Carolina,2020-08,5.9
+South Carolina,2020-09,5.6
+South Carolina,2020-10,5
+South Carolina,2020-11,4.8
+South Carolina,2020-12,4.9
+South Carolina,2021-01,5
+South Carolina,2021-02,4.8
+South Carolina,2021-03,4.3
+South Carolina,2021-04,3.7
+South Carolina,2021-05,3.6
+South Carolina,2021-06,4.5
+South Carolina,2021-07,4.3
+South Carolina,2021-08,4
+South Carolina,2021-09,3.3
+South Carolina,2021-10,3.3
+South Carolina,2021-11,3.1
+South Carolina,2021-12,3.1
+South Carolina,2022-01,3.8
+South Carolina,2022-02,3.8
+South Carolina,2022-03,3.2
+South Carolina,2022-04,2.6
+South Carolina,2022-05,2.9
+South Carolina,2022-06,3.5
+South Carolina,2022-07,3.4
+South Carolina,2022-08,3.4
+South Carolina,2022-09,3
+South Carolina,2022-10,3.3
+South Carolina,2022-11,2.9
+South Carolina,2022-12,3
+South Carolina,2023-01,3.4
+South Carolina,2023-02,3.5
+South Carolina,2023-03,3
+South Carolina,2023-04,2.3
+South Carolina,2023-05,2.7
+South Carolina,2023-06,3.2
+South Carolina,2023-07,3
+South Carolina,2023-08,2.7
+South Carolina,2023-09,2.7
+South Carolina,2023-10,3.1
+South Carolina,2023-11,2.9
+South Carolina,2023-12,3
+South Carolina,2024-01,3.4
+South Carolina,2024-02,3.6
+South Carolina,2024-03,3.3
+South Carolina,2024-04,2.9
+South Carolina,2024-05,3.6
+South Carolina,2024-06,4.6
+South Carolina,2024-07,4.9
+South Carolina,2024-08,5.3
+South Carolina,2024-09,4.5
+South Carolina,2024-10,4.7
+South Carolina,2024-11,4.7
+South Carolina,2024-12,4
+Tennessee,2010-01,11.1
+Tennessee,2010-02,10.8
+Tennessee,2010-03,10.6
+Tennessee,2010-04,9.7
+Tennessee,2010-05,9.4
+Tennessee,2010-06,9.9
+Tennessee,2010-07,9.7
+Tennessee,2010-08,9.6
+Tennessee,2010-09,9.3
+Tennessee,2010-10,9.2
+Tennessee,2010-11,9.5
+Tennessee,2010-12,9.4
+Tennessee,2011-01,10.2
+Tennessee,2011-02,9.8
+Tennessee,2011-03,9.5
+Tennessee,2011-04,8.9
+Tennessee,2011-05,8.9
+Tennessee,2011-06,9.8
+Tennessee,2011-07,9.4
+Tennessee,2011-08,9.2
+Tennessee,2011-09,8.9
+Tennessee,2011-10,8.5
+Tennessee,2011-11,8.1
+Tennessee,2011-12,8.1
+Tennessee,2012-01,8.6
+Tennessee,2012-02,8.4
+Tennessee,2012-03,8.1
+Tennessee,2012-04,7.5
+Tennessee,2012-05,7.7
+Tennessee,2012-06,8.6
+Tennessee,2012-07,8.6
+Tennessee,2012-08,8
+Tennessee,2012-09,7.5
+Tennessee,2012-10,7.6
+Tennessee,2012-11,7.3
+Tennessee,2012-12,7.7
+Tennessee,2013-01,8.7
+Tennessee,2013-02,8.2
+Tennessee,2013-03,7.9
+Tennessee,2013-04,7.4
+Tennessee,2013-05,7.6
+Tennessee,2013-06,8.5
+Tennessee,2013-07,8.2
+Tennessee,2013-08,7.7
+Tennessee,2013-09,7.5
+Tennessee,2013-10,7.5
+Tennessee,2013-11,6.9
+Tennessee,2013-12,6.8
+Tennessee,2014-01,7.1
+Tennessee,2014-02,7.1
+Tennessee,2014-03,6.9
+Tennessee,2014-04,6
+Tennessee,2014-05,6.3
+Tennessee,2014-06,7.1
+Tennessee,2014-07,7.3
+Tennessee,2014-08,6.9
+Tennessee,2014-09,6.4
+Tennessee,2014-10,6.1
+Tennessee,2014-11,6.1
+Tennessee,2014-12,5.9
+Tennessee,2015-01,6.6
+Tennessee,2015-02,6.2
+Tennessee,2015-03,5.9
+Tennessee,2015-04,5.3
+Tennessee,2015-05,5.6
+Tennessee,2015-06,6.2
+Tennessee,2015-07,6
+Tennessee,2015-08,5.5
+Tennessee,2015-09,5.2
+Tennessee,2015-10,5
+Tennessee,2015-11,4.9
+Tennessee,2015-12,4.7
+Tennessee,2016-01,5
+Tennessee,2016-02,4.8
+Tennessee,2016-03,4.7
+Tennessee,2016-04,4.3
+Tennessee,2016-05,4.2
+Tennessee,2016-06,5.2
+Tennessee,2016-07,5.2
+Tennessee,2016-08,5
+Tennessee,2016-09,4.9
+Tennessee,2016-10,4.7
+Tennessee,2016-11,4.5
+Tennessee,2016-12,4.5
+Tennessee,2017-01,5
+Tennessee,2017-02,4.6
+Tennessee,2017-03,4.1
+Tennessee,2017-04,3.4
+Tennessee,2017-05,3.2
+Tennessee,2017-06,4.1
+Tennessee,2017-07,3.9
+Tennessee,2017-08,3.6
+Tennessee,2017-09,3.2
+Tennessee,2017-10,3.3
+Tennessee,2017-11,3.2
+Tennessee,2017-12,3.2
+Tennessee,2018-01,3.8
+Tennessee,2018-02,3.6
+Tennessee,2018-03,3.5
+Tennessee,2018-04,3.1
+Tennessee,2018-05,3.1
+Tennessee,2018-06,4.1
+Tennessee,2018-07,3.9
+Tennessee,2018-08,3.6
+Tennessee,2018-09,3.4
+Tennessee,2018-10,3.4
+Tennessee,2018-11,3.1
+Tennessee,2018-12,3.2
+Tennessee,2019-01,3.9
+Tennessee,2019-02,3.4
+Tennessee,2019-03,3.4
+Tennessee,2019-04,2.9
+Tennessee,2019-05,3.1
+Tennessee,2019-06,3.8
+Tennessee,2019-07,3.7
+Tennessee,2019-08,3.3
+Tennessee,2019-09,3.1
+Tennessee,2019-10,3.3
+Tennessee,2019-11,3.1
+Tennessee,2019-12,3.1
+Tennessee,2020-01,3.7
+Tennessee,2020-02,3.4
+Tennessee,2020-03,3.9
+Tennessee,2020-04,15
+Tennessee,2020-05,11.8
+Tennessee,2020-06,10.8
+Tennessee,2020-07,10.1
+Tennessee,2020-08,7.7
+Tennessee,2020-09,6.9
+Tennessee,2020-10,5.9
+Tennessee,2020-11,5.3
+Tennessee,2020-12,5.3
+Tennessee,2021-01,5.6
+Tennessee,2021-02,5.4
+Tennessee,2021-03,5.1
+Tennessee,2021-04,4.6
+Tennessee,2021-05,4.6
+Tennessee,2021-06,5.6
+Tennessee,2021-07,4.9
+Tennessee,2021-08,4.3
+Tennessee,2021-09,3.8
+Tennessee,2021-10,3.5
+Tennessee,2021-11,3.2
+Tennessee,2021-12,3
+Tennessee,2022-01,3.7
+Tennessee,2022-02,3.5
+Tennessee,2022-03,3.2
+Tennessee,2022-04,3
+Tennessee,2022-05,3.2
+Tennessee,2022-06,4
+Tennessee,2022-07,3.7
+Tennessee,2022-08,3.6
+Tennessee,2022-09,3.2
+Tennessee,2022-10,3.4
+Tennessee,2022-11,3.2
+Tennessee,2022-12,3
+Tennessee,2023-01,3.6
+Tennessee,2023-02,3.5
+Tennessee,2023-03,3.2
+Tennessee,2023-04,2.7
+Tennessee,2023-05,3.1
+Tennessee,2023-06,3.7
+Tennessee,2023-07,3.5
+Tennessee,2023-08,3.4
+Tennessee,2023-09,3.3
+Tennessee,2023-10,3.4
+Tennessee,2023-11,3.1
+Tennessee,2023-12,3
+Tennessee,2024-01,3.5
+Tennessee,2024-02,2.8
+Tennessee,2024-03,3
+Tennessee,2024-04,2.7
+Tennessee,2024-05,2.8
+Tennessee,2024-06,3.7
+Tennessee,2024-07,3.6
+Tennessee,2024-08,3.5
+Tennessee,2024-09,3.6
+Tennessee,2024-10,3.5
+Tennessee,2024-11,3.5
+Tennessee,2024-12,3.5
+Texas,2010-01,8.6
+Texas,2010-02,8.4
+Texas,2010-03,8.3
+Texas,2010-04,7.9
+Texas,2010-05,7.9
+Texas,2010-06,8.4
+Texas,2010-07,8.4
+Texas,2010-08,8.3
+Texas,2010-09,8.1
+Texas,2010-10,7.9
+Texas,2010-11,8.2
+Texas,2010-12,8
+Texas,2011-01,8.5
+Texas,2011-02,8.2
+Texas,2011-03,8.1
+Texas,2011-04,7.7
+Texas,2011-05,8
+Texas,2011-06,8.7
+Texas,2011-07,8.7
+Texas,2011-08,8.4
+Texas,2011-09,8.1
+Texas,2011-10,7.6
+Texas,2011-11,7.2
+Texas,2011-12,7
+Texas,2012-01,7.3
+Texas,2012-02,7.1
+Texas,2012-03,6.6
+Texas,2012-04,6.3
+Texas,2012-05,6.6
+Texas,2012-06,7.3
+Texas,2012-07,7.3
+Texas,2012-08,6.9
+Texas,2012-09,6.4
+Texas,2012-10,6.2
+Texas,2012-11,6.1
+Texas,2012-12,6.2
+Texas,2013-01,7
+Texas,2013-02,6.6
+Texas,2013-03,6.4
+Texas,2013-04,6
+Texas,2013-05,6.3
+Texas,2013-06,6.9
+Texas,2013-07,6.7
+Texas,2013-08,6.4
+Texas,2013-09,6.3
+Texas,2013-10,6
+Texas,2013-11,5.8
+Texas,2013-12,5.5
+Texas,2014-01,5.8
+Texas,2014-02,5.8
+Texas,2014-03,5.5
+Texas,2014-04,4.8
+Texas,2014-05,5.1
+Texas,2014-06,5.5
+Texas,2014-07,5.7
+Texas,2014-08,5.4
+Texas,2014-09,5
+Texas,2014-10,4.7
+Texas,2014-11,4.6
+Texas,2014-12,4.2
+Texas,2015-01,4.8
+Texas,2015-02,4.5
+Texas,2015-03,4.4
+Texas,2015-04,4.1
+Texas,2015-05,4.3
+Texas,2015-06,4.7
+Texas,2015-07,4.8
+Texas,2015-08,4.6
+Texas,2015-09,4.5
+Texas,2015-10,4.4
+Texas,2015-11,4.4
+Texas,2015-12,4.2
+Texas,2016-01,4.5
+Texas,2016-02,4.4
+Texas,2016-03,4.5
+Texas,2016-04,4.3
+Texas,2016-05,4.3
+Texas,2016-06,5
+Texas,2016-07,5.1
+Texas,2016-08,5
+Texas,2016-09,4.9
+Texas,2016-10,4.6
+Texas,2016-11,4.5
+Texas,2016-12,4.6
+Texas,2017-01,5
+Texas,2017-02,5
+Texas,2017-03,4.6
+Texas,2017-04,4.2
+Texas,2017-05,4.2
+Texas,2017-06,4.6
+Texas,2017-07,4.5
+Texas,2017-08,4.5
+Texas,2017-09,4.1
+Texas,2017-10,3.8
+Texas,2017-11,3.9
+Texas,2017-12,3.8
+Texas,2018-01,4.3
+Texas,2018-02,4.2
+Texas,2018-03,4
+Texas,2018-04,3.7
+Texas,2018-05,3.6
+Texas,2018-06,4.3
+Texas,2018-07,4.1
+Texas,2018-08,4
+Texas,2018-09,3.8
+Texas,2018-10,3.6
+Texas,2018-11,3.6
+Texas,2018-12,3.7
+Texas,2019-01,4.2
+Texas,2019-02,3.8
+Texas,2019-03,3.5
+Texas,2019-04,3.1
+Texas,2019-05,3.1
+Texas,2019-06,3.8
+Texas,2019-07,3.9
+Texas,2019-08,3.7
+Texas,2019-09,3.4
+Texas,2019-10,3.3
+Texas,2019-11,3.3
+Texas,2019-12,3.2
+Texas,2020-01,3.7
+Texas,2020-02,3.5
+Texas,2020-03,5.4
+Texas,2020-04,12.3
+Texas,2020-05,11.8
+Texas,2020-06,10.4
+Texas,2020-07,9.7
+Texas,2020-08,7.9
+Texas,2020-09,7.7
+Texas,2020-10,6.7
+Texas,2020-11,6.8
+Texas,2020-12,6.7
+Texas,2021-01,7
+Texas,2021-02,6.9
+Texas,2021-03,6.4
+Texas,2021-04,5.9
+Texas,2021-05,5.7
+Texas,2021-06,6.4
+Texas,2021-07,5.9
+Texas,2021-08,5.5
+Texas,2021-09,5
+Texas,2021-10,4.7
+Texas,2021-11,4.4
+Texas,2021-12,4.1
+Texas,2022-01,4.6
+Texas,2022-02,4.3
+Texas,2022-03,3.8
+Texas,2022-04,3.5
+Texas,2022-05,3.6
+Texas,2022-06,4.2
+Texas,2022-07,4.1
+Texas,2022-08,4
+Texas,2022-09,3.8
+Texas,2022-10,3.8
+Texas,2022-11,3.8
+Texas,2022-12,3.7
+Texas,2023-01,4.3
+Texas,2023-02,4.4
+Texas,2023-03,4
+Texas,2023-04,3.5
+Texas,2023-05,3.9
+Texas,2023-06,4.2
+Texas,2023-07,4.2
+Texas,2023-08,4.2
+Texas,2023-09,3.9
+Texas,2023-10,3.7
+Texas,2023-11,3.5
+Texas,2023-12,3.5
+Texas,2024-01,4.1
+Texas,2024-02,4.4
+Texas,2024-03,4.1
+Texas,2024-04,3.5
+Texas,2024-05,3.8
+Texas,2024-06,4.5
+Texas,2024-07,4.4
+Texas,2024-08,4.4
+Texas,2024-09,4.1
+Texas,2024-10,4.1
+Texas,2024-11,4.2
+Texas,2024-12,3.7
+Virginia,2010-01,8.1
+Virginia,2010-02,8.1
+Virginia,2010-03,7.9
+Virginia,2010-04,7.2
+Virginia,2010-05,7.3
+Virginia,2010-06,7.3
+Virginia,2010-07,7.3
+Virginia,2010-08,7.3
+Virginia,2010-09,7
+Virginia,2010-10,6.8
+Virginia,2010-11,6.9
+Virginia,2010-12,6.7
+Virginia,2011-01,7.2
+Virginia,2011-02,6.9
+Virginia,2011-03,6.6
+Virginia,2011-04,6.1
+Virginia,2011-05,6.4
+Virginia,2011-06,6.8
+Virginia,2011-07,6.7
+Virginia,2011-08,6.8
+Virginia,2011-09,6.6
+Virginia,2011-10,6.3
+Virginia,2011-11,6.1
+Virginia,2011-12,6.2
+Virginia,2012-01,6.6
+Virginia,2012-02,6.5
+Virginia,2012-03,6.2
+Virginia,2012-04,5.6
+Virginia,2012-05,5.9
+Virginia,2012-06,6.2
+Virginia,2012-07,6.3
+Virginia,2012-08,6.1
+Virginia,2012-09,5.7
+Virginia,2012-10,5.5
+Virginia,2012-11,5.3
+Virginia,2012-12,5.4
+Virginia,2013-01,6.2
+Virginia,2013-02,5.9
+Virginia,2013-03,5.5
+Virginia,2013-04,5.2
+Virginia,2013-05,5.6
+Virginia,2013-06,5.9
+Virginia,2013-07,5.8
+Virginia,2013-08,5.7
+Virginia,2013-09,5.5
+Virginia,2013-10,5.5
+Virginia,2013-11,5.1
+Virginia,2013-12,5
+Virginia,2014-01,5.6
+Virginia,2014-02,5.6
+Virginia,2014-03,5.5
+Virginia,2014-04,4.7
+Virginia,2014-05,5.2
+Virginia,2014-06,5.2
+Virginia,2014-07,5.3
+Virginia,2014-08,5.4
+Virginia,2014-09,4.9
+Virginia,2014-10,4.7
+Virginia,2014-11,4.6
+Virginia,2014-12,4.5
+Virginia,2015-01,5.1
+Virginia,2015-02,5
+Virginia,2015-03,4.7
+Virginia,2015-04,4.2
+Virginia,2015-05,4.6
+Virginia,2015-06,4.6
+Virginia,2015-07,4.4
+Virginia,2015-08,4.3
+Virginia,2015-09,4
+Virginia,2015-10,4
+Virginia,2015-11,3.9
+Virginia,2015-12,3.8
+Virginia,2016-01,4.2
+Virginia,2016-02,4.1
+Virginia,2016-03,4
+Virginia,2016-04,3.5
+Virginia,2016-05,3.8
+Virginia,2016-06,4.1
+Virginia,2016-07,4.2
+Virginia,2016-08,4.3
+Virginia,2016-09,4.1
+Virginia,2016-10,4
+Virginia,2016-11,3.8
+Virginia,2016-12,3.7
+Virginia,2017-01,4.4
+Virginia,2017-02,4.2
+Virginia,2017-03,4
+Virginia,2017-04,3.5
+Virginia,2017-05,3.7
+Virginia,2017-06,3.7
+Virginia,2017-07,3.7
+Virginia,2017-08,3.8
+Virginia,2017-09,3.5
+Virginia,2017-10,3.3
+Virginia,2017-11,3.2
+Virginia,2017-12,3.1
+Virginia,2018-01,3.6
+Virginia,2018-02,3.4
+Virginia,2018-03,3.3
+Virginia,2018-04,2.8
+Virginia,2018-05,2.9
+Virginia,2018-06,3.1
+Virginia,2018-07,3
+Virginia,2018-08,3
+Virginia,2018-09,2.8
+Virginia,2018-10,2.7
+Virginia,2018-11,2.7
+Virginia,2018-12,2.7
+Virginia,2019-01,3.4
+Virginia,2019-02,3
+Virginia,2019-03,3
+Virginia,2019-04,2.4
+Virginia,2019-05,2.7
+Virginia,2019-06,2.8
+Virginia,2019-07,2.9
+Virginia,2019-08,2.9
+Virginia,2019-09,2.6
+Virginia,2019-10,2.5
+Virginia,2019-11,2.5
+Virginia,2019-12,2.4
+Virginia,2020-01,2.9
+Virginia,2020-02,2.7
+Virginia,2020-03,3.2
+Virginia,2020-04,11.1
+Virginia,2020-05,9.8
+Virginia,2020-06,10.1
+Virginia,2020-07,9.2
+Virginia,2020-08,7.5
+Virginia,2020-09,6.2
+Virginia,2020-10,5.3
+Virginia,2020-11,5
+Virginia,2020-12,4.5
+Virginia,2021-01,4.9
+Virginia,2021-02,4.6
+Virginia,2021-03,4.5
+Virginia,2021-04,4.1
+Virginia,2021-05,4.2
+Virginia,2021-06,4.7
+Virginia,2021-07,4.2
+Virginia,2021-08,4
+Virginia,2021-09,3.4
+Virginia,2021-10,3.1
+Virginia,2021-11,2.1
+Virginia,2021-12,2.7
+Virginia,2022-01,2.8
+Virginia,2022-02,2.6
+Virginia,2022-03,2.6
+Virginia,2022-04,2.3
+Virginia,2022-05,2.8
+Virginia,2022-06,2.9
+Virginia,2022-07,2.9
+Virginia,2022-08,3.3
+Virginia,2022-09,2.9
+Virginia,2022-10,2.8
+Virginia,2022-11,2.8
+Virginia,2022-12,2.5
+Virginia,2023-01,3
+Virginia,2023-02,2.9
+Virginia,2023-03,2.8
+Virginia,2023-04,2.4
+Virginia,2023-05,2.8
+Virginia,2023-06,2.9
+Virginia,2023-07,2.9
+Virginia,2023-08,3.2
+Virginia,2023-09,3
+Virginia,2023-10,3
+Virginia,2023-11,2.9
+Virginia,2023-12,2.7
+Virginia,2024-01,2.7
+Virginia,2024-02,2.9
+Virginia,2024-03,2.4
+Virginia,2024-04,2.3
+Virginia,2024-05,2.7
+Virginia,2024-06,3
+Virginia,2024-07,3.3
+Virginia,2024-08,3.5
+Virginia,2024-09,3.1
+Virginia,2024-10,2.9
+Virginia,2024-11,3
+Virginia,2024-12,2.5
